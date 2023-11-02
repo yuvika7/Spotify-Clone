@@ -257,32 +257,32 @@ let song = [
     },
     {
         id: '9',
-        songName: 'SaudeBazi',
+        songName: '9:45',
         post: 'images/cover9.jpg',
     },
     {
         id: '10',
-        songName: 'Manchala',
+        songName: 'Excuses',
         post: 'images/cover10.jpg',
     },
     {
         id: '11',
-        songName: 'Baarishein',
+        songName: 'No Love',
         post: 'images/cover11.jpg',
     },
     {
         id: '12',
-        songName: 'Aahatein',
+        songName: '25 25',
         post: 'images/cover12.jpg',
     },
     {
         id: '13',
-        songName: 'Ek Din Aap',
+        songName: 'Lemonade',
         post: 'images/cover13.jpg',
     },
     {
         id: '14',
-        songName: 'Kuchh Khaas',
+        songName: 'Check It Out',
         post: 'images/cover14.jpg',
     },
     {
@@ -292,12 +292,12 @@ let song = [
     },
     {
         id: '16',
-        songName: 'Tune Jo Na Kaha',
+        songName: 'G.O.A.T',
         post: 'images/cover16.jpg',
     },
     {
         id: '17',
-        songName: 'Apna Bana Le Piya',
+        songName: 'Tu Hai Kahan',
         post: 'images/cover17.jpg',
     },
     {
